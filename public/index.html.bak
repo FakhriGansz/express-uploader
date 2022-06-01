@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Faz
+<title>Simple Uploader By Fakhri
 </title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -47,7 +47,7 @@
 <span>
 </a>
 </span>
-<p><font color= "white">Made with <i class="fa fa-heart" aria-hidden="true"></i> by FakhriGansz</a></p>
+<p><font color= "white">Made with <i class="fa fa-heart" aria-hidden="true"></i><a href="https://wa.me/62813198689818"> by FakhriGansz</a></p>
 <script src="script.js"></script>
 </body>
 </html>
